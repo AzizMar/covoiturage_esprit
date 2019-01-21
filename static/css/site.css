@@ -6,9 +6,21 @@ body {
 
 .header-style.jumbotron {
     margin-bottom: 0px;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
 }
 
 .footer-style.jumbotron {
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+    background-color: #272424;
     margin-bottom: 0px;
+    border-top: 5px outset #1C6EA4;
+    border-bottom: 5px outset #1C6EA4;
+    /*border-width: 1px;*/
+    /*border-style: outset;*/
+    /*border-color: #000000;*/
 
 }
