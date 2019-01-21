@@ -1,0 +1,14 @@
+body {
+    background-image: url("/static/images/bgpatterns/connectwork.png");
+    background-repeat: repeat;
+    background-color: #cccccc;
+}
+
+.header-style.jumbotron {
+    margin-bottom: 0px;
+}
+
+.footer-style.jumbotron {
+    margin-bottom: 0px;
+
+}
