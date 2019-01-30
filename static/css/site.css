@@ -5,6 +5,7 @@ body {
 }
 
 .header-style.jumbotron {
+    min-height: 300px;
     margin-bottom: 0px;
     -webkit-border-radius: 0px;
     -moz-border-radius: 0px;
@@ -12,6 +13,7 @@ body {
 }
 
 .footer-style.jumbotron {
+    min-height: 300px;
     -webkit-border-radius: 0px;
     -moz-border-radius: 0px;
     border-radius: 0px;
@@ -22,5 +24,10 @@ body {
     /*border-width: 1px;*/
     /*border-style: outset;*/
     /*border-color: #000000;*/
+
+}
+
+.card.main-body {
+    border-radius: 0px;
 
 }
